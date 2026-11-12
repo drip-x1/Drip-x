@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://drip-x.pages.dev/sitemap.xml
